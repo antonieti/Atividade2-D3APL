@@ -6,5 +6,7 @@ Atividade apresentada a disciplina de Aplicações em Ciência de Dados como par
 Integrantes do grupo
 
 Daniel Brai Gonzales Marcos
+
 Giovanna Nascimento Antonieti
+
 Priscila Marques de Oliveira
